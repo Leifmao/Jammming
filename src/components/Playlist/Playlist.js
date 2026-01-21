@@ -2,6 +2,8 @@ import React, {useCallback} from 'react';
 import './Playlist.css';
 import TrackList from '../TrackList/TrackList';
 
-//const Playlist = (props) => {
+const Playlist = (props) => {
+
+};
 
 export default Playlist;
